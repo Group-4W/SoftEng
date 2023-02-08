@@ -1,12 +1,12 @@
 ## Names:
 
-Eduardo Costa
+Eduardo Manuel Costa Moreira
 
 Aleksandros Isufi
 
 Sebastian Torrejon
 
-
+Hamid
 
 # TO DO's
 
