@@ -1,3 +1,10 @@
+## Names:
+
+Eduardo Costa
+Aleksandros Isufi
+Sebastian Torrejon
+
+
 # Sprint 1: Lab of Week 3
 
 The aim of this sprint is to check that the project workflow is set-up for the team. You may
