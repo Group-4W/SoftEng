@@ -70,13 +70,13 @@ Checklist Submission 1 (16% of CW mark)
 
 The following must be in place:
 
-▪ GitHub project for coursework set-up
+~~▪ GitHub project for coursework set-up~~
 
-▪ Product Backlog created
+~~▪ Product Backlog created~~
 
 ▪ Dockerfile for project set-up and works
 
-▪ Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches
+~~▪ Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches~~
 
 ▪ First release created on GitHub
 
