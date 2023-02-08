@@ -47,9 +47,9 @@ Due: Friday, 10 February 2023, 11:59 PM
 
 One pdf file outlining the following items:
 
-- Product Backlog
+- Product Backlog (Done)
 
-- Code of Conduct
+- Code of Conduct (Not finished)
 
 - A URL for the team's GitHub project 
 https://docs.google.com/document/d/1FNIgo-q36xI2_bx6s9XoeCov2zx6_7jdGFdQ9QV-7VQ/edit?usp=sharing
