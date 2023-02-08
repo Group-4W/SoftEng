@@ -16,13 +16,13 @@ Decide who will be your product owner (ie. oversee the documentation of tasks an
 
 Draft your code of conduct. Consider what is important to you and what will keep your project on track. Use the Mozilla code of conduct as a starting point: https://www.mozilla.org/en-US/about/governance/policies/participation/. Talk each point through and decide if it is useful to include in your code of conduct. Decide what additional points you should add that are important in our specific context. For example you might want to define rules around:
 
-  Frequency of meetings
+- Frequency of meetings
 
-  Gathering work in time for deadlines
+- Gathering work in time for deadlines
 
-  What do do if a team member does not particpate
+- What do do if a team member does not particpate
 
-  Attending lab sessions
+- Attending lab sessions
 
 Decide on a technology that will support your Kanban system. Use the Kanban reading
 
