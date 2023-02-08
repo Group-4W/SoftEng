@@ -8,7 +8,7 @@ Sebastian Torrejon Alonzo
 
 Abdelhamid Elaani
 
-# TO DO's
+# TO DO's Seminar 2
 
 Decide who will be your Scrum master today (ie. faciltates meeting). Try to rotate this role on a fortnightly basis.
 
@@ -25,6 +25,18 @@ Draft your code of conduct. Consider what is important to you and what will keep
 - Attending lab sessions
 
 Decide on a technology that will support your Kanban system. Use the Kanban reading (https://moodle.roehampton.ac.uk/pluginfile.php/3079479/mod_resource/content/1/kanban.html)
+
+# TO DO's Seminar 3
+
+GitHub project for coursework set-up
+
+Product Backlog created
+
+Dockerfile for project set-up and works
+
+Correct branches for GitFlow workflow created - includes master , develop , and release branches
+
+First release created on GitHub § Code of Conduct defined
 
 # Sprint 1: Lab of Week 3
 
