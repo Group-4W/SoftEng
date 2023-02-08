@@ -52,7 +52,7 @@ One pdf file outlining the following items:
 - Code of Conduct
 
 - A URL for the team's GitHub project 
-
+https://docs.google.com/document/d/1FNIgo-q36xI2_bx6s9XoeCov2zx6_7jdGFdQ9QV-7VQ/edit?usp=sharing
 
 
 # Sprint 1: Lab of Week 3
