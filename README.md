@@ -1,4 +1,4 @@
-#Sprint 1: Lab of Week 3
+# Sprint 1: Lab of Week 3
 
 The aim of this sprint is to check that the project workflow is set-up for the team. You may
 choose to meet some of the feature requirements during this review point, but it is not as
