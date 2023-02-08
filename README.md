@@ -9,6 +9,11 @@ Sebastian Torrejon Alonzo
 Abdelhamid Elaani
 
 
+## Trello Project Board
+
+https://trello.com/invite/b/LfpjAhQL/ATTI87d616d2cf045363f03e9c378cbaf01e104358FE/coursework
+
+
 # TO DO's Seminar 2
 
 Decide who will be your Scrum master today (ie. faciltates meeting). Try to rotate this role on a fortnightly basis.
