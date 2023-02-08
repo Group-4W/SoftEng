@@ -4,9 +4,9 @@ Eduardo Manuel Costa Moreira
 
 Aleksandros Isufi
 
-Sebastian Torrejon
+Sebastian Torrejon Alonzo
 
-Hamid
+Abdelhamid Elaani
 
 # TO DO's
 
