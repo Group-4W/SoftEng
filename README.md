@@ -8,6 +8,7 @@ Sebastian Torrejon Alonzo
 
 Abdelhamid Elaani
 
+
 # TO DO's Seminar 2
 
 Decide who will be your Scrum master today (ie. faciltates meeting). Try to rotate this role on a fortnightly basis.
@@ -26,6 +27,7 @@ Draft your code of conduct. Consider what is important to you and what will keep
 
 Decide on a technology that will support your Kanban system. Use the Kanban reading (https://moodle.roehampton.ac.uk/pluginfile.php/3079479/mod_resource/content/1/kanban.html)
 
+
 # TO DO's Seminar 3
 
 GitHub project for coursework set-up
@@ -37,6 +39,21 @@ Dockerfile for project set-up and works
 Correct branches for GitFlow workflow created - includes master , develop , and release branches
 
 First release created on GitHub § Code of Conduct defined
+
+
+# Sprint 1
+
+Due: Friday, 10 February 2023, 11:59 PM
+
+One pdf file outlining the following items:
+
+- Product Backlog
+
+- Code of Conduct
+
+- A URL for the team's GitHub project 
+
+
 
 # Sprint 1: Lab of Week 3
 
