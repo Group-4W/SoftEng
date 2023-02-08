@@ -1,10 +1,10 @@
 ## Names:
 
-Eduardo Manuel Costa Moreira
+Eduardo Manuel Costa Moreira (Scrum Master)
 
 Aleksandros Isufi
 
-Sebastian Torrejon Alonzo
+Sebastian Torrejon Alonzo (Product Owner)
 
 Abdelhamid Elaani
 
