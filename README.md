@@ -24,7 +24,7 @@ Draft your code of conduct. Consider what is important to you and what will keep
 
 - Attending lab sessions
 
-Decide on a technology that will support your Kanban system. Use the Kanban reading
+Decide on a technology that will support your Kanban system. Use the Kanban reading (https://moodle.roehampton.ac.uk/pluginfile.php/3079479/mod_resource/content/1/kanban.html)
 
 # Sprint 1: Lab of Week 3
 
