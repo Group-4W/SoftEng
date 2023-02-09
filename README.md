@@ -54,7 +54,7 @@ One pdf file outlining the following items:
 
 ~~- Product Backlog (Done)~~
 
-- Code of Conduct (Not finished)
+~~- Code of Conduct (Done)~~
 
 ~~- A URL for the team's GitHub project (Done)~~
 https://docs.google.com/document/d/1FNIgo-q36xI2_bx6s9XoeCov2zx6_7jdGFdQ9QV-7VQ/edit?usp=sharing
