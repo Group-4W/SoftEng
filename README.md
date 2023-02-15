@@ -1,10 +1,10 @@
 ## Names:
 
-Eduardo Manuel Costa Moreira
+Eduardo Manuel Costa Moreira (Scrum Master)
 
 Aleksandros Isufi
 
-Sebastian Torrejon Alonzo
+Sebastian Torrejon Alonzo (Product Owner)
 
 Abdelhamid Elaani
 
@@ -16,9 +16,9 @@ https://trello.com/invite/b/LfpjAhQL/ATTI87d616d2cf045363f03e9c378cbaf01e104358F
 
 # TO DO's Seminar 2
 
-Decide who will be your Scrum master today (ie. faciltates meeting). Try to rotate this role on a fortnightly basis.
+~~Decide who will be your Scrum master today (ie. faciltates meeting). Try to rotate this role on a fortnightly basis.~~
 
-Decide who will be your product owner (ie. oversee the documentation of tasks and their journey through the task board)
+~~Decide who will be your product owner (ie. oversee the documentation of tasks and their journey through the task board)~~
 
 Draft your code of conduct. Consider what is important to you and what will keep your project on track. Use the Mozilla code of conduct as a starting point: https://www.mozilla.org/en-US/about/governance/policies/participation/. Talk each point through and decide if it is useful to include in your code of conduct. Decide what additional points you should add that are important in our specific context. For example you might want to define rules around:
 
@@ -30,18 +30,18 @@ Draft your code of conduct. Consider what is important to you and what will keep
 
 - Attending lab sessions
 
-Decide on a technology that will support your Kanban system. Use the Kanban reading (https://moodle.roehampton.ac.uk/pluginfile.php/3079479/mod_resource/content/1/kanban.html)
+~~Decide on a technology that will support your Kanban system. Use the Kanban reading (https://moodle.roehampton.ac.uk/pluginfile.php/3079479/mod_resource/content/1/kanban.html)~~
 
 
 # TO DO's Seminar 3
 
-GitHub project for coursework set-up
+~~GitHub project for coursework set-up~~
 
-Product Backlog created
+~~Product Backlog created~~
 
-Dockerfile for project set-up and works
+~~Dockerfile for project set-up and works~~
 
-Correct branches for GitFlow workflow created - includes master , develop , and release branches
+~~Correct branches for GitFlow workflow created - includes master , develop , and release branches~~
 
 First release created on GitHub § Code of Conduct defined
 
@@ -52,11 +52,11 @@ Due: Friday, 10 February 2023, 11:59 PM
 
 One pdf file outlining the following items:
 
-- Product Backlog (Done)
+~~- Product Backlog (Done)~~
 
-- Code of Conduct (Not finished)
+~~- Code of Conduct (Done)~~
 
-- A URL for the team's GitHub project 
+~~- A URL for the team's GitHub project (Done)~~
 https://docs.google.com/document/d/1FNIgo-q36xI2_bx6s9XoeCov2zx6_7jdGFdQ9QV-7VQ/edit?usp=sharing
 
 
@@ -70,13 +70,13 @@ Checklist Submission 1 (16% of CW mark)
 
 The following must be in place:
 
-▪ GitHub project for coursework set-up
+~~▪ GitHub project for coursework set-up~~
 
-▪ Product Backlog created
+~~▪ Product Backlog created~~
 
 ▪ Dockerfile for project set-up and works
 
-▪ Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches
+~~▪ Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches~~
 
 ▪ First release created on GitHub
 
