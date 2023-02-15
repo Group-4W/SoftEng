@@ -43,7 +43,7 @@ Draft your code of conduct. Consider what is important to you and what will keep
 
 ~~Correct branches for GitFlow workflow created - includes master , develop , and release branches~~
 
-First release created on GitHub § Code of Conduct defined
+~~First release created on GitHub § Code of Conduct defined~~
 
 
 # Sprint 1
