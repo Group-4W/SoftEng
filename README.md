@@ -74,7 +74,7 @@ The following must be in place:
 
 ~~▪ Product Backlog created~~
 
-▪ Dockerfile for project set-up and works
+~~▪ Dockerfile for project set-up and works~~
 
 ~~▪ Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches~~
 
