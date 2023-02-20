@@ -2,7 +2,7 @@
 
 ## Unwelcome sexual attention or physical contact
 
-Unwelcome sexual attention or physical contact is from of sexual harassment that occurs when someone makes unwanted sexual nature.Yhis type of behavior can be especially harmful in a work or educational setting, as it creates a hostile and intimidating environment that can interfere with an individual’s ability to perform their job or effectively.
+Unwelcome sexual attention or physical contact is from of sexual harassment that occurs when someone makes unwanted sexual nature. This type of behavior can be especially harmful in a work or educational setting, as it creates a hostile and intimidating environment that can interfere with an individual’s ability to perform their job or effectively.
 
 - Unwanted touching, kissing, hugging, or fondling
 - Sexual propositions or advances
@@ -21,18 +21,18 @@ Disruptive behavior refer to actions  that interfere with the normal functioning
 - Refusing to follow rules or guidelines
 - Engaging in arguments or confrontations
 
-Disruptive behavior can create a negative and unproductive environment, damage relationships, and undermine the ability of others to perform their work or participate in activities.It is important to organizations to have clear policies in place that prohibit disruptive behavior and provide a process for  addressing incidents.
+Disruptive behavior can create a negative and unproductive environment, damage relationships, and undermine the ability of others to perform their work or participate in activities. It is important to organizations to have clear policies in place that prohibit disruptive behavior and provide a process for  addressing incidents.
 
 
 ## Influencing Unacceptable Behavior
-Influencing unacceptable behavior refers to actions that encourage or contribute to the perpetuation of behavior that is considered inappropriate, harmful, or in violation of established norms and values.This can take many forms, including, but not limited to:
+Influencing unacceptable behavior refers to actions that encourage or contribute to the perpetuation of behavior that is considered inappropriate, harmful, or in violation of established norms and values. This can take many forms, including, but not limited to:
 
 - Encouraging or supporting disruptive behavior
 - Engaging in gossip or spreading false information
 - Provoking or inciting others to engage in harmful behavior
 - Failing to report or address unacceptable behavior when witnessed
 
-Influencing unacceptable behavior can have serious consequences for individuals and organizations,including damaged relationships, decreased morale, and  legal or reputational harm.It is important for individuals to be mindful of the impact of their actions and to take steps to discourage and address unacceptable behavior when encountered.
+Influencing unacceptable behavior can have serious consequences for individuals and organizations,including damaged relationships, decreased morale, and  legal or reputational harm. It is important for individuals to be mindful of the impact of their actions and to take steps to discourage and address unacceptable behavior when encountered.
 
 
 ## Personal Attacks
@@ -48,23 +48,23 @@ Anyone being asked to stop unacceptable behavior is expected to comply immediate
 
 Being direct and professional can be a delicate balance, but it is a crucial aspect of effective communication.Here are some tips  that can help you be direct and professional:
 
-- Be clear and concise:State your message clearly and succinctly,without beating around the bush or being overly verbose.
+- Be clear and concise: State your message clearly and succinctly,without beating around the bush or being overly verbose.
 - Use appropriate language: Avoid using language that is overly casual or unprofessional.Instead, choose words that are respectful and appropriate for the situation.
 - Avoid being confrontational: Be assertive, not aggressive.Avoid using language that is confrontational or aggressive, as it can damag your relationship with the person you are communicating with.
-- Show respect:Always show respect for the person you are communicating with regardless of the message you are delivering.
-- Listen actively:Listen to the person you are communicating with and respond appropriately. This will help you understand their perspective and respond in way that is professional and effective.
-- Stay calm:Maintain a calm and professional  demanor, even in challenging situations.
-- Use positive body language:Your body language can communicate a lot about your attitude and level of professionalism.Use positive body language,such as making eye contact and smiling, to communicate a positive and professional image.
+- Show respect: Always show respect for the person you are communicating with regardless of the message you are delivering.
+- Listen actively: Listen to the person you are communicating with and respond appropriately. This will help you understand their perspective and respond in way that is professional and effective.
+- Stay calm: Maintain a calm and professional  demanor, even in challenging situations.
+- Use positive body language: Your body language can communicate a lot about your attitude and level of professionalism.Use positive body language,such as making eye contact and smiling, to communicate a positive and professional image.
 
 ## Understanding different perspectives
 
 Understanding different perspectives can be challenging, but it is an important aspect of effective communication and collaboration.Here are some tips that can help you understand different perspectives:
 
-- Listen actively:Listen to what the person is saying and try to understand their perspective.Pay attention to their tone of voice and body language.
-- Ask questions:Ask questions to gain  a better undertanding of the person’s perspective.Yhis will also show that you are intrested in their viewpoint.
-- Avoid assumptions:Avoid making assumptions about the person’s perspective.
+- Listen actively: Listen to what the person is saying and try to understand their perspective.Pay attention to their tone of voice and body language.
+- Ask questions: Ask questions to gain  a better undertanding of the person’s perspective.Yhis will also show that you are intrested in their viewpoint.
+- Avoid assumptions: Avoid making assumptions about the person’s perspective.
 Instead, try to understand it by asking questions and listening actively.
-- Empathize:try to put yourself in the person’s shoes and understand their pint of view.This can help you see things from their perspective and understand their motivations.
-- Consider different cultural backgrounds:People from different cultures may have different perspectives and values.Try to understand these cultural differences and how they may be influencing the person’s perspective.
-- Be open-minded:Be open to hearing different perspectives, even if they are different from yur own.Keep an open mind and be willing to consider new ideas.
-- Be respectful:Show respect for the person’s perspective, even if you do not agree with it.Avoid being confrontational or dismissive.
+- Empathize: try to put yourself in the person’s shoes and understand their pint of view.This can help you see things from their perspective and understand their motivations.
+- Consider different cultural backgrounds: People from different cultures may have different perspectives and values.Try to understand these cultural differences and how they may be influencing the person’s perspective.
+- Be open-minded: Be open to hearing different perspectives, even if they are different from yur own.Keep an open mind and be willing to consider new ideas.
+- Be respectful: Show respect for the person’s perspective, even if you do not agree with it.Avoid being confrontational or dismissive.
