@@ -34,7 +34,18 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: github-action-docker-build
+      #- name: github-action-docker-build
         # You may pin to the exact commit or the version.
         # uses: btmc/github-action-docker-build@0460e157546a126115df57276f64b6722f7ee343
-        uses: btmc/github-action-docker-build@0.1
+      #  uses: btmc/github-action-docker-build@0.1
+      - name: Dockerfile Validator
+        # You may pin to the exact commit or the version.
+        # uses: ghe-actions/dockerfile-validator@5b260f53ac1eaab94f9769dcd565802f48af187f
+        uses: ghe-actions/dockerfile-validator@v2
+        with:
+          # 
+          dockerfile: Dockerfile # default is Dockerfile
+          # 
+          lint: dockerlint # optional, default is dockerlint
+          # 
+          dockerlabelvalidate: yes # optional, default is yes
