@@ -15,6 +15,10 @@ https://trello.com/invite/b/LfpjAhQL/ATTI87d616d2cf045363f03e9c378cbaf01e104358F
 
 # SPRINT 2
 
+The aim of this sprint is to check that task management is set-up and that the initial
+requirements gathering has taken place via user stories and use cases. You should have
+completed at least 25% of the work for the project at this point based on your own estimates.
+
 The following must be in place:
 
  ▪ Issues being used on GitHub
@@ -46,3 +50,5 @@ The following must be in place:
  ▪ Rough designs of the screens (pages) that your application will have and how these flow together. We are looking for wireframes and a high-level overview of how the application flows together.
 
 Submit a GitHub link for this Sprint
+
+
