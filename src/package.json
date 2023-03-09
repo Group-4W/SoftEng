@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "prettify": "prettier -l --write \"**/*.js\"",
+    "start": "node index.html",
     "test": "jest",
     "dev": "nodemon src/index.js"
   },
