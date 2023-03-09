@@ -1,6 +1,7 @@
 # Persona 1
 
 ## Photo
+:)
 ## Name
 Emily
 ## Age
@@ -20,7 +21,7 @@ Values convenience and simplicity when it comes to shopping. She enjoys browsing
 
 
 # Persona 2
-
+:D
 ## Photo
 ## Name
 Alex
