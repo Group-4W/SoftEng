@@ -21,7 +21,7 @@ completed at least 25% of the work for the project at this point based on your o
 
 The following must be in place:
 
- ▪ Issues being used on GitHub
+ ▪ ~Issues being used on GitHub~
 
  ▪ Tasks defined as user stories
 
