@@ -69,10 +69,13 @@ Instead, try to understand it by asking questions and listening actively.
 - Be open-minded: Be open to hearing different perspectives, even if they are different from your own. Keep an open mind and be willing to consider new ideas.
 - Be respectful: Show respect for the person’s perspective, even if you do not agree with it. Avoid being confrontational or dismissive.
 
-Meeting is been hold in everyweek in those days Monday,Wednesday and Friday.
+Meeting is been hold in everyweek in those days Monday,Wednesday and Friday from 14:15 to 14:30.
+
 Signed by:
 Eduardo Manuel Costa Moreira (Scrum Master)
 
 Sebastian Torrejon Alonzo (Product Owner)
+
 Aleksandros Isufi
+
 Abdelhamid Elaani
