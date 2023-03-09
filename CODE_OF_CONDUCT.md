@@ -68,3 +68,11 @@ Instead, try to understand it by asking questions and listening actively.
 - Consider different cultural backgrounds: People from different cultures may have different perspectives and values. Try to understand these cultural differences and how they may be influencing the person’s perspective.
 - Be open-minded: Be open to hearing different perspectives, even if they are different from your own. Keep an open mind and be willing to consider new ideas.
 - Be respectful: Show respect for the person’s perspective, even if you do not agree with it. Avoid being confrontational or dismissive.
+
+Meeting is been hold in everyweek in those days Monday,Wednesday and Friday.
+Signed by:
+Eduardo Manuel Costa Moreira (Scrum Master)
+
+Sebastian Torrejon Alonzo (Product Owner)
+Aleksandros Isufi
+Abdelhamid Elaani
