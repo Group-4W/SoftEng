@@ -35,7 +35,7 @@ The following must be in place:
 
  ▪ Full use cases defined.
 
- ▪ Suitable diagrams and documentation used to design software, which may include:
+ ▪ ~Suitable diagrams and documentation used to design software, which may include:~
 
      - Use case diagrams (mandatory)
 
