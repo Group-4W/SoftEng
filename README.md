@@ -21,19 +21,19 @@ completed at least 25% of the work for the project at this point based on your o
 
 The following must be in place:
 
- ▪ ~Issues being used on GitHub~
+ ▪ ~Issues being used on GitHub.~
 
- ▪ Tasks defined as user stories
+ ▪ Tasks defined as user stories.
 
- ▪ ~Project integrated with zube.io or any other task management tool~
+ ▪ ~Project integrated with zube.io or any other task management tool.~
 
- ▪ ~Kanban/Project Board being used~
+ ▪ ~Kanban/Project Board being used.~
 
- ▪ ~Sprint Boards being used~
+ ▪ ~Sprint Boards being used.~
 
- ▪ ~Personas defined~
+ ▪ ~Personas defined.~
 
- ▪ Full use cases defined
+ ▪ Full use cases defined.
 
  ▪ Suitable diagrams and documentation used to design software, which may include:
 
