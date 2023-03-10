@@ -37,7 +37,7 @@ The following must be in place:
 
  ▪ Suitable diagrams and documentation used to design software, which may include:
 
-     - Use case diagrams (mandatory)
+     - ~Use case diagrams (mandatory)~
 
      - Class diagrams (mandatory)
 
