@@ -43,6 +43,6 @@ The following must be in place:
 
  ▪ Rough designs of the screens (pages) that your application will have and how these flow together. We are looking for wireframes and a high-level overview of how the application flows together.
 
-Submit a GitHub link for this Sprint
+Submit a GitHub link for this Sprint.
 
 
