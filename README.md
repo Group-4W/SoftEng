@@ -23,7 +23,7 @@ The following must be in place:
 
  ▪ ~Issues being used on GitHub.~
 
- ▪ Tasks defined as user stories.
+ ▪ ~Tasks defined as user stories.~
 
  ▪ ~Project integrated with zube.io or any other task management tool.~
 
@@ -33,7 +33,7 @@ The following must be in place:
 
  ▪ ~Personas defined.~
 
- ▪ Full use cases defined.
+ ▪ ~Full use cases defined.~
 
  ▪ ~Suitable diagrams and documentation used to design software, which may include:~
 
